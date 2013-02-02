@@ -1,0 +1,19 @@
+{
+    "name": "webino/zf1-gdata",
+    "description": "Gdata from Zend Framework 1.12.1",
+    "type": "library",
+    "keywords": [
+        "framework", "zf1", "gdata"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "license": "BSD-3-Clause",
+    "include-path": ["src/"],
+    "autoload": {
+        "psr-0": {
+            "Zend": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
