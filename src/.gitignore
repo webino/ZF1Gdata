@@ -1,2 +1,2 @@
-/Zend/**
-!/Zend/Gdata/
+/Zend/*
+!/Zend/Gdata*
